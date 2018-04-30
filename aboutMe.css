@@ -1,6 +1,59 @@
 body{
   background-image: url("http://shing.mobile9.com/download/media/449/honeycombn_f82trypr.jpg")
 }
+#mainBlog{
+  margin: auto;
+  width: 75%;
+  border: 3px solid black;
+  border-radius: 70px 20px;
+  padding: 10px;
+  background-color: grey;
+}
+#modify{
+  color: black;
+  text-decoration: underline;
+  text-align: center;
+}
+#text{
+  margin: auto;
+}
+#logos{
+  margin: auto;
+  width: 75%;
+/*  padding: 10px;*/
+  text-align: center;   
+}
+#end{
+  text-align: center;
+  /*color: black;
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;*/
+}
+#icons{
+  height: 7%;
+  width: 7%;
+}
+#linkedIn{
+  height: 6%;
+  width: 6%;
+}
+iframe {
+    display: block;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    border: 0;
+}
+.picCite{
+  text-align: center;
+  font-size: 12px;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 #nav {
   color: #fff;
